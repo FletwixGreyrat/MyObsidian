@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "9592bf483a3cdfed",
+    "type": "split",
+    "children": [
+      {
+        "id": "30ab04407ff636c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd35ee6d5467e7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Верстка с нуля/Урок 6. CSS Стили шрифта и текста. CSS font-size. CSS color, CSS text-shadow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Урок 6. CSS Стили шрифта и текста. CSS font-size. CSS color, CSS text-shadow"
+            }
+          },
+          {
+            "id": "6b623b4a29e4e284",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Речь.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Речь"
+            }
+          },
+          {
+            "id": "0f810c08dca723a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Front-end/CSS/8. CSS фоновый цвет, изображение, градиент — свойство background, функция linear-gradient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. CSS фоновый цвет, изображение, градиент — свойство background, функция linear-gradient"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bdaf3573b3cc50e",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6c5bf747ef8c01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "921c8fe43e6fb513",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "08f461eb0986fcbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e897ff30a240f271",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b9c8370213837a4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "99e3223bd8f842b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8a48b0e9e6f878c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "План жизни на ближайшее время.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for План жизни на ближайшее время"
+            }
+          },
+          {
+            "id": "157655e1a10a5bf8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "План жизни на ближайшее время.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from План жизни на ближайшее время"
+            }
+          },
+          {
+            "id": "b1814ecb471c496c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "15df85338391db56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "План жизни на ближайшее время.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of План жизни на ближайшее время"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-and-night:Toggle Theme": false
+    }
+  },
+  "active": "0f810c08dca723a9",
+  "lastOpenFiles": [
+    "Web/Front-end/HTML/16 Глобальные атрибуты HTML — class, id, title, hidden, tabindex, lang и др. Комментарии в разметке.md",
+    "Web/Front-end/CSS/8. CSS фоновый цвет, изображение, градиент — свойство background, функция linear-gradient.md",
+    "Web/Front-end/HTML.zip",
+    "Web/Front-end/HTML.zip.ssk0c6.part",
+    "Web/Front-end/HTML/17 Актуальность HTML-тегов и атрибутов. Сервисы caniuse и caninclude. Валидатор разметки от W3C.md",
+    "Web/Front-end/CSS/6 CSS шрифты — способы подключения, правило font-face, свойство font и другие параметры.md",
+    "Web/Front-end/CSS/7. Цвета в CSS. Форматы RGB, HEX, HSL. Свойство color, ключевые слова transparent, currentColor.md",
+    "Web/Front-end/HTML/1_1_Введение_понятие_тега,_анатомия_тега,_поток_документа,_вложенность.md",
+    "Web/Front-end/HTML/1_2_Блочные_и_строчные_теги_в_HTML_Теги_div_и_span.md",
+    "Web/Front-end/CSS/5 Обнуляющие стили в CSS. Сброс стилей, нормализация, reset, normalize. Стили браузера по умолчанию.md",
+    "Web/Верстка с нуля/Урок 8. Свойства и стили оформления блоков. CSS opacity. Уроки HTML CSS JS.md",
+    "Web/Front-end/CSS/4. CSS внутренние и внешние отступы — свойства padding и margin. Схлопывание отступов.md",
+    "Моя работа.md",
+    "График развития, чтобы не утонуть.md",
+    "Книга по фастапи.md",
+    "Речь.md",
+    "VK Infosec cource/1.md",
+    "Роадмап хакинг.md",
+    "Web/Верстка с нуля/Урок 6. CSS Стили шрифта и текста. CSS font-size. CSS color, CSS text-shadow.md",
+    "Web/Верстка с нуля/Урок 7. Свойства блоков. CSS padding. CSS margin. CSS display. Уроки CSS HTML JS.md",
+    "to become an ethical hacker/Список утилит для изучения.md",
+    "to become an ethical hacker/Youtube/images/Pasted image 20240603194652.png",
+    "to become an ethical hacker/Youtube/1.1 Этапы тестирования на проникновение.md",
+    "to become an ethical hacker/Youtube/1.3 Получение IP адреса, физического адреса с помощью инструмента Whois.md",
+    "to become an ethical hacker/Youtube/1.2 Конкретно про сбор информации.md",
+    "to become an ethical hacker/Pulse/Основы понимания сетей для начинающего хакера. Часть 1. IP, DHCP, NAT, port.md",
+    "to become an ethical hacker/Cyber-ed/images/image 1.png",
+    "to become an ethical hacker/Cyber-ed/Этапы_проведения_атак_и_компрометации_информационных_систем.md",
+    "to become an ethical hacker/Cyber-ed/Цель белого хакера.md",
+    "to become an ethical hacker/Cyber-ed/Типовая инфраструктура компании.md",
+    "Web/Front-end/Курс по верстке с нуля",
+    "Web/Верстка с нуля",
+    "Pasted image 20241217000008.png",
+    "to become an ethical hacker/Hacktools",
+    "VK Infosec cource",
+    "to become an ethical hacker/1 Анализ защищенности веб приложений",
+    "Untitled 1.canvas",
+    "python Курс",
+    "Креативное мышление",
+    "Untitled.canvas",
+    "Легион с Ильичом",
+    "Pasted image 20240609174048.png",
+    "Pasted image 20240609173734.png",
+    "Pasted image 20240601125009.png",
+    "Pasted image 20240601124723.png",
+    "Pasted image 20240609181329.png",
+    "Pasted image 20240609181157.png",
+    "Pasted image 20240609174248.png"
+  ]
+}
