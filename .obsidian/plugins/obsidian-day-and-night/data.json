@@ -1,8 +1,8 @@
 {
-  "pluginEnabled": true,
+  "pluginEnabled": false,
   "currentTheme": "",
-  "currentColorScheme": "obsidian",
-  "dayColorScheme": "obsidian",
+  "currentColorScheme": "moonstone",
+  "dayColorScheme": "moonstone",
   "dayTime": "10:00",
   "dayTheme": "",
   "nightColorScheme": "obsidian",

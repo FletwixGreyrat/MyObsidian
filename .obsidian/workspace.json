@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "30ab04407ff636c9",
+        "id": "6dae6280e9530917",
         "type": "tabs",
         "children": [
-          {
-            "id": "cd35ee6d5467e7d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Верстка с нуля/Урок 6. CSS Стили шрифта и текста. CSS font-size. CSS color, CSS text-shadow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Урок 6. CSS Стили шрифта и текста. CSS font-size. CSS color, CSS text-shadow"
-            }
-          },
-          {
-            "id": "6b623b4a29e4e284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Речь.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Речь"
-            }
-          },
           {
             "id": "0f810c08dca723a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Речь.md",
+                "file": "Web/Front-end/CSS/6 CSS шрифты — способы подключения, правило font-face, свойство font и другие параметры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Речь"
+              "title": "6 CSS шрифты — способы подключения, правило font-face, свойство font и другие параметры"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.5
   },
   "right": {
     "id": "b9c8370213837a4e",
@@ -184,47 +155,48 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-and-night:Toggle Theme": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-day-and-night:Toggle Theme": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "0f810c08dca723a9",
   "lastOpenFiles": [
+    "Web/Front-end/CSS/7 ключевые слова transparent, currentColor. Цвета в CSS. Форматы RGB, HEX, HSL. Свойство color, ключ.md",
+    "Web/Front-end/CSS/5 Обнуляющие стили в CSS. Сброс стилей, нормализация, reset, normalize. Стили браузера по умолчанию.md",
+    "Web/Front-end/CSS/3 Блочная модель в CSS — свойства display, width, height, padding, margin, border и box-sizing.md",
+    "Web/Front-end/CSS/2 Гайд по CSS-селекторам, расчёт специфичности в CSS. Приоритет и вес стилей.md",
+    "Web/Front-end/CSS/1 CSS для начинающих. Подключение, базовые концепции, такие как каскад, специфичность, наследование.md",
+    "Web/Front-end/CSS/6 CSS шрифты — способы подключения, правило font-face, свойство font и другие параметры.md",
+    "Web/Front-end/CSS/4. CSS внутренние и внешние отступы — свойства padding и margin. Схлопывание отступов.md",
+    "Web/Front-end/CSS/12.md",
+    "Web/Front-end/CSS/11.md",
+    "Web/Верстка с нуля/Урок 6. CSS Стили шрифта и текста. CSS font-size. CSS color, CSS text-shadow.md",
+    "Речь.md",
+    "Web/Front-end/первый модуль курса.md",
+    "Web/Front-end/part 1.md",
+    "Web/Front-end/CSS/9..md",
     "Web/Front-end/CSS/8. CSS фоновый цвет, изображение, градиент — свойство background, функция linear-gradient.md",
+    "Web/Front-end/CSS/10.md",
+    "Web/Front-end/CSS student/4.md",
+    "Web/Front-end/CSS student/3.md",
+    "Web/Front-end/CSS student/CSS_Box_Model_Guide.md",
+    "Web/Front-end/CSS student/2.md",
+    "Web/Front-end/CSS student/2 (2).md",
+    "Web/Front-end/CSS student/CSS_Selectors_Guide.md",
+    "Web/Front-end/CSS student",
+    "Как провести перехват и скрытый анализ WiFi трафика без подключения к роутеру.md",
     "Web/Front-end/HTML/16 Глобальные атрибуты HTML — class, id, title, hidden, tabindex, lang и др. Комментарии в разметке.md",
     "Web/Front-end/HTML.zip",
     "Web/Front-end/HTML.zip.ssk0c6.part",
     "Web/Front-end/HTML/17 Актуальность HTML-тегов и атрибутов. Сервисы caniuse и caninclude. Валидатор разметки от W3C.md",
-    "Web/Front-end/CSS/6 CSS шрифты — способы подключения, правило font-face, свойство font и другие параметры.md",
-    "Web/Front-end/CSS/7. Цвета в CSS. Форматы RGB, HEX, HSL. Свойство color, ключевые слова transparent, currentColor.md",
     "Web/Front-end/HTML/1_1_Введение_понятие_тега,_анатомия_тега,_поток_документа,_вложенность.md",
-    "Web/Front-end/HTML/1_2_Блочные_и_строчные_теги_в_HTML_Теги_div_и_span.md",
-    "Web/Front-end/CSS/5 Обнуляющие стили в CSS. Сброс стилей, нормализация, reset, normalize. Стили браузера по умолчанию.md",
-    "Web/Верстка с нуля/Урок 8. Свойства и стили оформления блоков. CSS opacity. Уроки HTML CSS JS.md",
-    "Web/Front-end/CSS/4. CSS внутренние и внешние отступы — свойства padding и margin. Схлопывание отступов.md",
-    "Моя работа.md",
-    "График развития, чтобы не утонуть.md",
-    "Книга по фастапи.md",
-    "Речь.md",
-    "VK Infosec cource/1.md",
-    "Роадмап хакинг.md",
-    "Web/Верстка с нуля/Урок 6. CSS Стили шрифта и текста. CSS font-size. CSS color, CSS text-shadow.md",
-    "Web/Верстка с нуля/Урок 7. Свойства блоков. CSS padding. CSS margin. CSS display. Уроки CSS HTML JS.md",
-    "to become an ethical hacker/Список утилит для изучения.md",
     "to become an ethical hacker/Youtube/images/Pasted image 20240603194652.png",
-    "to become an ethical hacker/Youtube/1.1 Этапы тестирования на проникновение.md",
-    "to become an ethical hacker/Youtube/1.3 Получение IP адреса, физического адреса с помощью инструмента Whois.md",
-    "to become an ethical hacker/Youtube/1.2 Конкретно про сбор информации.md",
-    "to become an ethical hacker/Pulse/Основы понимания сетей для начинающего хакера. Часть 1. IP, DHCP, NAT, port.md",
     "to become an ethical hacker/Cyber-ed/images/image 1.png",
-    "to become an ethical hacker/Cyber-ed/Этапы_проведения_атак_и_компрометации_информационных_систем.md",
-    "to become an ethical hacker/Cyber-ed/Цель белого хакера.md",
-    "to become an ethical hacker/Cyber-ed/Типовая инфраструктура компании.md",
     "Web/Front-end/Курс по верстке с нуля",
     "Web/Верстка с нуля",
     "Pasted image 20241217000008.png",
@@ -235,7 +207,6 @@
     "python Курс",
     "Креативное мышление",
     "Untitled.canvas",
-    "Легион с Ильичом",
     "Pasted image 20240609174048.png",
     "Pasted image 20240609173734.png",
     "Pasted image 20240601125009.png",
