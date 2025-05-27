@@ -25,7 +25,7 @@ Autofocus - при открытии страницы взять этот эле�
 
 Атрибут form (не путать с тегом) - применяется для input, textarea, select, чтобы прикрепить их к определенной форме
 
-minlength иmaxlength - сам понимаешь, что делают, используются в input, textarea, select
+minlength и maxlength - сам понимаешь, что делают, используются в input, textarea, select
 
 size - длина при моношире
 pattern - регулярка в инпуте
