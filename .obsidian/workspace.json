@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6dae6280e9530917",
+        "id": "419d6038cee22176",
         "type": "tabs",
         "children": [
           {
-            "id": "0f810c08dca723a9",
+            "id": "5f7ca3b7970b46d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Front-end/MeJS/Мое руководство по Джаваскрипту.md",
+                "file": "Web/Front-end/HTML/17 Актуальность HTML-тегов и атрибутов. Сервисы caniuse и caninclude. Валидатор разметки от W3C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мое руководство по Джаваскрипту"
+              "title": "17 Актуальность HTML-тегов и атрибутов. Сервисы caniuse и caninclude. Валидатор разметки от W3C"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b9c8370213837a4e",
@@ -156,43 +155,47 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-day-and-night:Toggle Theme": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-day-and-night:Toggle Theme": false
     }
   },
-  "active": "0f810c08dca723a9",
+  "active": "5f7ca3b7970b46d8",
   "lastOpenFiles": [
-    "Web/Front-end/JS/1..md",
-    "Web/Front-end/HTML/1_5_HTML_ссылки_и_кнопки_—_теги_a,_button_Якорная_ссылка,_ссылка.md",
-    "Web/Front-end/HTML/1_4_Форматирование_текста_в_HTML_—_теги_b_и_strong,_i_и_em,_s,_u.md",
-    "Web/Front-end/MeJS/Мое руководство по Джаваскрипту.md",
-    "Web/Front-end/CSS/20.md",
-    "Web/Front-end/CSS/19.md",
-    "Web/Front-end/CSS/18.md",
-    "Web/Front-end/CSS/17.md",
-    "Web/Front-end/CSS/16.md",
-    "Web/Front-end/HTML/1_3_HTML_заголовки,_параграфы_и_списки_—_теги_h1_h6,_p,_ol,_ul_и.md",
-    "Web/Front-end/HTML/1_1_Введение_понятие_тега,_анатомия_тега,_поток_документа,_вложенность.md",
-    "Web/Front-end/HTML/1_9 HTML таблицы — теги table, tr, td и th. Структурные табличные теги thead, tbody, tfoot и caption..md",
-    "Web/Front-end/HTML/1_7 Цитаты в HTML — теги blockquote, cite. Атрибут cite. Источник цитаты в HTML..md",
-    "Web/Front-end/HTML/1_6 HTML изображения — тег img. Относительные и абсолютные пути..md",
     "Web/Front-end/HTML/16 Глобальные атрибуты HTML — class, id, title, hidden, tabindex, lang и др. Комментарии в разметке.md",
     "Web/Front-end/HTML/15 HTML векторная графика, тег svg. Как выгрузить SVG изображение из Figma.md",
+    "Web/Front-end/HTML/17 Актуальность HTML-тегов и атрибутов. Сервисы caniuse и caninclude. Валидатор разметки от W3C.md",
     "Web/Front-end/HTML/14 Семантические теги HTML header, main, footer, section, aside, nav и остальные Семантика HTML5.md",
     "Web/Front-end/HTML/13 Формы в HTML. Атрибуты required, disabled, readonly, placeholder, inputmode, type и autocomplete.md",
-    "Web/Front-end/HTML/1_2_Блочные_и_строчные_теги_в_HTML_Теги_div_и_span.md",
-    "Web/Front-end/HTML/1_8 Медиаконтент в HTML — видео, аудио, фреймы. Теги video, audio, iframe. Тег source..md",
     "Web/Front-end/HTML/12 Формы в HTML. Теги textarea, select, option, optgroup.md",
     "Web/Front-end/HTML/11. HTML тег input и его вариации. Атрибут type, значения tel, email, password, url, search и другие.md",
-    "Web/Front-end/CSS/8. CSS фоновый цвет, изображение, градиент — свойство background, функция linear-gradient.md",
-    "Web/Front-end/CSS/7 ключевые слова transparent, currentColor. Цвета в CSS. Форматы RGB, HEX, HSL. Свойство color, ключ.md",
-    "Web/Front-end/CSS/6 CSS шрифты — способы подключения, правило font-face, свойство font и другие параметры.md",
-    "Web/Front-end/CSS/5 Обнуляющие стили в CSS. Сброс стилей, нормализация, reset, normalize. Стили браузера по умолчанию.md",
+    "Потный бутерброд/0. init 5.md",
+    "Web/Front-end/HTML/1_10 HTML формы. Теги form, fieldset, legend, label и поле ввода input.md",
+    "Web/Front-end/HTML/1_9 HTML таблицы — теги table, tr, td и th. Структурные табличные теги thead, tbody, tfoot и caption..md",
+    "Web/Front-end/HTML/1_7 Цитаты в HTML — теги blockquote, cite. Атрибут cite. Источник цитаты в HTML..md",
+    "Web/Front-end/HTML/1_8 Медиаконтент в HTML — видео, аудио, фреймы. Теги video, audio, iframe. Тег source..md",
+    "Web/Front-end/HTML/1_6 HTML изображения — тег img. Относительные и абсолютные пути..md",
+    "Web/Front-end/HTML/1_5_HTML_ссылки_и_кнопки_—_теги_a,_button_Якорная_ссылка,_ссылка.md",
+    "Web/Front-end/HTML/1_4_Форматирование_текста_в_HTML_—_теги_b_и_strong,_i_и_em,_s,_u.md",
+    "Web/Front-end/HTML/1_3_HTML_заголовки,_параграфы_и_списки_—_теги_h1_h6,_p,_ol,_ul_и.md",
+    "Web/Front-end/HTML/1_2_Блочные_и_строчные_теги_в_HTML_Теги_div_и_span.md",
+    "Web/Front-end/HTML/1_1_Введение_понятие_тега,_анатомия_тега,_поток_документа,_вложенность.md",
+    "to become an ethical hacker/Pulse/Основы понимания сетей для начинающего хакера. Часть 1. IP, DHCP, NAT, port.md",
+    "to become an ethical hacker/Youtube/1.1 Этапы тестирования на проникновение.md",
+    "Компьютерная грамотность/Занятие 2 Введение в кибербезопасность.md",
+    "Компьютерная грамотность/Занятие 1. Введение в компьютеры.md",
+    "Компьютерная грамотность/Temp.md",
+    "Компьютерная грамотность/4.md",
+    "Компьютерная грамотность/windows/Урок 1. Знакомство с Проводником Windows (File Explorer).md",
+    "to become an ethical hacker/Youtube/1.2 Конкретно про сбор информации.md",
+    "Потный бутерброд",
+    "Компьютерная грамотность/windows",
+    "Компьютерная грамотность",
     "Web/Front-end/CSS.zip",
     "Web/Front-end/CSS.zip.ssrezl.part",
     "Web/Front-end/MeJS",
@@ -200,9 +203,6 @@
     "Web/html homework",
     "Web/Front-end/HTML/Untitled",
     "Web/Front-end/CSS.zip.aahi1t.part",
-    "Web/Front-end/JS",
-    "Untitled",
-    "Web/Front-end/HTML.zip",
     "Pasted image 20241217000008.png",
     "to become an ethical hacker/Youtube/images/Pasted image 20240603194652.png",
     "to become an ethical hacker/Cyber-ed/images/image 1.png",
